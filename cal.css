@@ -1,0 +1,17 @@
+.containter{
+    text-align: center;
+    margin-top: 100px;
+
+}
+button{
+    width: 102px;
+    height: 58px;
+    font-size: 20px;
+    background-color: cadetblue;
+}
+input{
+    font-size: 34px;
+}
+table{
+    margin: auto;
+}
